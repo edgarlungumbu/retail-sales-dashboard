@@ -35,10 +35,13 @@ Databases house large volumes of vital business data that are difficult to inter
 
 Executive Overview:
 A high-level overview displaying revenue, average order value (AOV), customers, orders and year-over-year comparisons.
+
 Product Performance:
 A closer look at products contribution to revenue, units sold and AOV.
+
 Customer Analysis:
 Targeted customer KPIs complemented by regional revenue, all able to be filtered by month.
+
 Employee Performance:
 A high-level view of the revenue and orders per employee supported by a detailed summary table.
 
