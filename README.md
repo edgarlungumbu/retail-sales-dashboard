@@ -28,7 +28,7 @@ Databases house large volumes of vital business data that are difficult to inter
 
 1.	Open the dashboard in Microsoft Power BI.
 2.	Navigate between the Executive Overview, Product Performance, Customer Analysis and Employee Performance pages.
-3.	Use the month/year slicers or manually interact with report visuals to filter the data.
+3.	Use the month/year slicers or manually interact with visuals to filter the data.
 4.	 KPIs, measures and visualisations automatically update based on the selected filters.
 
 ## Dashboard Contents
